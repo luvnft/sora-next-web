@@ -57,11 +57,13 @@ const Home: NextPage = ({ videos }: { videos: VideoProps[] }) => {
             </div>
             <Image src="/logo.png" alt="Sora Web" width={128} height={128} />
             <h1 className="mb-4 mt-8 text-base font-bold uppercase tracking-widest">
-              Sora AI Video Generator
+              LUV NFT.V STUDIO
             </h1>
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]">
-              Make unbelivable AI video from text, by using OpenAI's latest Sora
-              AI model.
+            1️⃣ Create an AI NFTV with text 
+            2️⃣ Promote your NFTV with #💜🛋️🎬 
+            3️⃣ If we LUV it we will tokenized it for free 
+            📣 Viral NFTV videos we LUV we will tokenize it as a Bitcoin NFT
             </p>
             <Prompt />
           </div>
