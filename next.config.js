@@ -4,7 +4,7 @@ module.exports = {
       {
         protocol: "https",
         hostname: "res.cloudinary.com",
-        pathname: "/ddrjtl4y1/**",
+        pathname: "/NFTV/**",
       },
     ],
   },
