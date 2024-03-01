@@ -108,8 +108,7 @@ export default function Example() {
               height={96}
             />
             <p className="text-sm leading-6 text-gray-300">
-              Sora Text to Video is a web application that allows you to convert
-              text to video.
+              One LUV NFT.V could change your life forever.
             </p>
             <div className="flex space-x-6">
               {navigation.social.map((item) => (

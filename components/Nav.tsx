@@ -73,7 +73,7 @@ export default function Nav() {
                   <Image
                     className="h-8 w-8"
                     src="/icon.png"
-                    alt="Sora Web"
+                    alt="NFT.V"
                     width={32}
                     height={32}
                   />
